@@ -156,4 +156,7 @@ section .btn {
 	.desc {
 		padding: 3rem;
 	}
+	header .logo {
+		font-size: 2.4rem;
+	}
 }
